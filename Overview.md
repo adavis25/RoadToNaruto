@@ -1,7 +1,7 @@
 # Mod Overview
 To start off this will be a quick overview of the plans for the mod that we can change at anytime. 
 ## Questing
-I want do do the quests in this using Better Questing (https://www.curseforge.com/minecraft/mc-mods/better-questing)
+I want to do the quests in this using Better Questing (https://www.curseforge.com/minecraft/mc-mods/better-questing)
 
 
 This mod adds in a questbook that I believe you can use and edit to suit your needs. So there would be a couple sections of ours. 
